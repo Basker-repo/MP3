@@ -833,3 +833,8 @@ margin-top: 2%;
                 background: #0062cc;
                 color: #fff;
             }
+
+            input[type="file"] {
+              display: visible !important;
+              display: inline !important;
+          }

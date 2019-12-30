@@ -1,0 +1,18 @@
+const constants = {
+    LIST_VIEW: "LIST_VIEW",
+    ADD_ERROR: "ADD_ERROR",
+    CLEAR_ERROR: "CLEAR_ERROR",
+    // stages
+    ADD_CARD: "ADD_CARD",
+    ADD_LIST: "ADD_LIST",
+    DRAG_HAPPENED: "DRAG_HAPPENED",
+    EDIT_CARD: "EDIT_CARD",
+    DELETE_CARD: "DELETE_CARD",
+    EDIT_LIST_TITLE: "EDIT_LIST_TITLE",
+    DELETE_LIST: "DELETE_LIST",
+    SET_ACTIVE_BOARD: "SET_ACTIVE_BOARD",
+    ADD_BOARD: "ADD_BOARD",
+    //  end stages
+}
+
+export default constants
